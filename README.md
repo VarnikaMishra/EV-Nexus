@@ -69,12 +69,4 @@
    ```bash
    streamlit run app.py
    ```
-
-**Project Structure**
-EV-Nexus/
-│
-├── app.py                 # Main Streamlit application entry point
-├── battery_model.pkl      # Pre-trained Random Forest regression model
-├── requirements.txt       # Python package dependencies
-├── .env                   # Secret configuration keys (Do not commit)
-└── README.md              # Comprehensive project documentation
+   
