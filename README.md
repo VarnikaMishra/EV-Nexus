@@ -5,26 +5,6 @@
 
 <img width="1691" height="238" alt="image" src="https://github.com/user-attachments/assets/5143a268-2d8e-4b68-9e9a-2a05d6a05463" />
 
-## Architecture of EV-Nexus
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b20301d2-ccf7-4c29-8464-628b43108f67" />
-
-
-<img width="1881" height="802" alt="image" src="https://github.com/user-attachments/assets/2369eaac-ddeb-4a0c-b441-e601bd737e66" />
-
-
-
-<img width="1847" height="798" alt="image" src="https://github.com/user-attachments/assets/1799f304-9550-4624-b157-282f2e90e6b0" />
-
-
-
-<img width="1841" height="786" alt="image" src="https://github.com/user-attachments/assets/1875eaac-c3c4-4ec8-b007-fa0042f4331d" />
-
-
-
-<img width="1842" height="744" alt="image" src="https://github.com/user-attachments/assets/3030a5cf-eab0-4c39-bfe4-2febff5c2f5f" />
-
-## Tech-Stack
-
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B.svg)
 ![Gemini 3](https://img.shields.io/badge/AI_Engine-Gemini_3_Flash-8E75B2.svg)
@@ -49,6 +29,26 @@
 * **OSRM Live Route Estimator:** Computes real-world coordinates and trip distances via OpenStreetMap Nominatim and OSRM servers.
 * **QMS Manufacturing Drift Detector:** Correlates internal resistance variations and cell-to-cell voltage spreads to isolate assembly flaws before final pack production.
 * **Multilingual Localization:** Dynamic toggle support for English and Hindi operational controls.
+
+## Architecture of EV-Nexus
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b20301d2-ccf7-4c29-8464-628b43108f67" />
+
+## Screenshots of Project
+
+<img width="1881" height="802" alt="image" src="https://github.com/user-attachments/assets/2369eaac-ddeb-4a0c-b441-e601bd737e66" />
+
+
+
+<img width="1847" height="798" alt="image" src="https://github.com/user-attachments/assets/1799f304-9550-4624-b157-282f2e90e6b0" />
+
+
+
+<img width="1841" height="786" alt="image" src="https://github.com/user-attachments/assets/1875eaac-c3c4-4ec8-b007-fa0042f4331d" />
+
+
+
+<img width="1842" height="744" alt="image" src="https://github.com/user-attachments/assets/3030a5cf-eab0-4c39-bfe4-2febff5c2f5f" />
+
 
 ## 🛠️ Installation & Setup
 
