@@ -23,7 +23,8 @@
 
 <img width="1842" height="744" alt="image" src="https://github.com/user-attachments/assets/3030a5cf-eab0-4c39-bfe4-2febff5c2f5f" />
 
-**Tech-Stack**
+## Tech-Stack
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B.svg)
 ![Gemini 3](https://img.shields.io/badge/AI_Engine-Gemini_3_Flash-8E75B2.svg)
