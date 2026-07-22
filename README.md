@@ -5,6 +5,8 @@
 
 <img width="1691" height="238" alt="image" src="https://github.com/user-attachments/assets/5143a268-2d8e-4b68-9e9a-2a05d6a05463" />
 
+**Architecture of EV-Nexus**
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b20301d2-ccf7-4c29-8464-628b43108f67" />
 
 
 <img width="1881" height="802" alt="image" src="https://github.com/user-attachments/assets/2369eaac-ddeb-4a0c-b441-e601bd737e66" />
